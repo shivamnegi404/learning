@@ -89,7 +89,7 @@
 - [ ] [Udacity: How to Build a Startup](https://www.udacity.com/course/how-to-build-a-startup--ep245)
 - [ ] [Youtube: SEO Unlocked](https://youtu.be/Q_lySNxCag0?list=PLJR61fXkAx11Oi6EpqJ9Es4rVOIZhwlSG)
 	- [ ] [Welcome to the SEO Unlocked](https://www.youtube.com/watch?v=Q_lySNxCag0) `0:10:09`
-	- [X] [Introduction to SEO and Why It's Important](https://www.youtube.com/watch?v=pIbQfOcsEsE) `0:10:29`
+	- [ ] [Introduction to SEO and Why It's Important](https://www.youtube.com/watch?v=pIbQfOcsEsE) `0:10:29`
 	- [ ] [Keyword Research Part 1](https://www.youtube.com/watch?v=CYicoAcAi0A) `0:19:20`
 	- [ ] [Keyword Research Part 2](https://www.youtube.com/watch?v=U655ixy-sdE) `0:09:56`
 	- [ ] [On-page and technical SEO Part 1](https://www.youtube.com/watch?v=PXDPqXHLSOY) `0:22:58`
@@ -132,7 +132,7 @@
 - [ ] [Book: Machine Learning Yearning by Andrew Ng](http://www.mlyearning.org/)
 - [ ] [Book: Prediction Machines: The Simple Economics of Artificial Intelligence](https://www.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence/dp/1633695670)
 - [ ] [Book: Building Machine Learning Powered Applications: Going from Idea to Product](https://www.amazon.com/Building-Machine-Learning-Powered-Applications/dp/149204511X/)
-- [X] [Coursera: AI For Everyone](https://www.coursera.org/learn/ai-for-everyone)
+- [ ] [Coursera: AI For Everyone](https://www.coursera.org/learn/ai-for-everyone)
 - [ ] [Datacamp: Case Studies in Statistical Thinking](https://www.datacamp.com/courses/case-studies-in-statistical-thinking)
 - [ ] [Datacamp: Data Science for Everyone](https://www.datacamp.com/courses/data-science-for-everyone)
 - [ ] [Datacamp: Machine Learning with the Experts: School Budgets](https://www.datacamp.com/courses/machine-learning-with-the-experts-school-budgets)
