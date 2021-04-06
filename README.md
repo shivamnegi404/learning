@@ -140,57 +140,57 @@
 - [ ] [Datacamp: Analyzing Police Activity with pandas](https://www.datacamp.com/courses/analyzing-police-activity-with-pandas)
 - [ ] [Datacamp: HR Analytics in Python: Predicting Employee Churn](https://www.datacamp.com/courses/hr-analytics-in-python-predicting-employee-churn)
 - [ ] [Datacamp: Predicting Customer Churn in Python](https://www.datacamp.com/courses/predicting-customer-churn-in-python)
-- [X] [Datacamp: Data Science for Managers](https://www.datacamp.com/courses/data-science-for-managers)
-- [X] [Facebook: Field Guide to Machine Learning](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
-- [X] [Google: Introduction to Machine Learning Problem Framing](https://developers.google.com/machine-learning/problem-framing)
+- [ ] [Datacamp: Data Science for Managers](https://www.datacamp.com/courses/data-science-for-managers)
+- [ ] [Facebook: Field Guide to Machine Learning](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
+- [ ] [Google: Introduction to Machine Learning Problem Framing](https://developers.google.com/machine-learning/problem-framing)
 - [ ] [Microsoft: Define an AI strategy to create business value](https://aischool.microsoft.com/en-us/business/learning-paths/define-an-ai-strategy-to-create-business-value)
 - [ ] [Microsoft: Discover ways to foster an AI-ready culture in your business](https://aischool.microsoft.com/en-us/business/learning-paths/discover-ways-to-foster-an-ai-ready-culture-in-your-business)
 - [ ] [Microsoft: Identify guiding principles for responsible AI in your business](https://aischool.microsoft.com/en-us/business/learning-paths/identify-guiding-principles-for-responsible-ai-in-your-business)
 - [ ] [Microsoft: Introduction to AI technology for business leaders](https://aischool.microsoft.com/en-us/business/learning-paths/introduction-to-ai-technology-for-business-leaders)
-- [X] [Pluralsight: How to Think About Machine Learning Algorithms](https://www.pluralsight.com/courses/machine-learning-algorithms)
+- [ ] [Pluralsight: How to Think About Machine Learning Algorithms](https://www.pluralsight.com/courses/machine-learning-algorithms)
 - [ ] [State of AI Report 2020](https://docs.google.com/presentation/d/1ZUimafgXCBSLsgbacd6-a-dqO7yLyzIl1ZJbiCBUUT4/edit#slide=id.g557254d430_0_0)
 - [ ] [Udacity: Problem Solving with Advanced Analytics](https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976)
-- [X] [Youtube: Vincent Warmerdam: The profession of solving (the wrong problem) | PyData Amsterdam 2019](https://youtu.be/kYMfE9u-lMo)
-- [X] [Youtube: Making Money from AI by Predicting Sales - Jay's Intro to AI Part 2](https://youtu.be/V4-lXSs3jrk)
-- [X] [Youtube: How does YouTube recommend videos? - AI EXPLAINED!](https://www.youtube.com/watch?v=wDxTWp3KMMs) `0:33:53`
-- [X] [Youtube: How does Google Translate's AI work?](https://www.youtube.com/watch?v=sIoHFPGOY0I) `0:15:02`
-- [X] [Youtube: Data Science in Finance](https://www.youtube.com/watch?v=mbOkL39Uabs) `0:17:52`
-- [X] [Youtube: The Age of AI](https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)
-	- [X] [How Far is Too Far? | The Age of A.I.](https://www.youtube.com/watch?v=UwsrzCVZAb8) `0:34:39`
-	- [X] [Healed through A.I. | The Age of A.I.](https://www.youtube.com/watch?v=V5aZjsWM2wo) `0:39:55`
-	- [X] [Using A.I. to build a better human | The Age of A.I.](https://www.youtube.com/watch?v=lrv8ga02VNg) `0:44:27`
-	- [X] [Love, art and stories: decoded | The Age of A.I.](https://www.youtube.com/watch?v=Kr1fmKVY3cA) `0:38:57`
-	- [X] [The 'Space Architects' of Mars | The Age of A.I.](https://www.youtube.com/watch?v=lIvrIKaNCRE) `0:30:10`
-	- [X] [Will a robot take my job? | The Age of A.I.](https://www.youtube.com/watch?v=f2aocKWrPG8) `0:36:14`
-	- [X] [Saving the world one algorithm at a time | The Age of A.I.](https://www.youtube.com/watch?v=0wy4u34fii4) `0:46:37`
-	- [X] [How A.I. is searching for Aliens | The Age of A.I.](https://www.youtube.com/watch?v=VwtC_4t2g5M) `0:36:12`
+- [ ] [Youtube: Vincent Warmerdam: The profession of solving (the wrong problem) | PyData Amsterdam 2019](https://youtu.be/kYMfE9u-lMo)
+- [ ] [Youtube: Making Money from AI by Predicting Sales - Jay's Intro to AI Part 2](https://youtu.be/V4-lXSs3jrk)
+- [ ] [Youtube: How does YouTube recommend videos? - AI EXPLAINED!](https://www.youtube.com/watch?v=wDxTWp3KMMs) `0:33:53`
+- [ ] [Youtube: How does Google Translate's AI work?](https://www.youtube.com/watch?v=sIoHFPGOY0I) `0:15:02`
+- [ ] [Youtube: Data Science in Finance](https://www.youtube.com/watch?v=mbOkL39Uabs) `0:17:52`
+- [ ] [Youtube: The Age of AI](https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)
+	- [ ] [How Far is Too Far? | The Age of A.I.](https://www.youtube.com/watch?v=UwsrzCVZAb8) `0:34:39`
+	- [ ] [Healed through A.I. | The Age of A.I.](https://www.youtube.com/watch?v=V5aZjsWM2wo) `0:39:55`
+	- [ ] [Using A.I. to build a better human | The Age of A.I.](https://www.youtube.com/watch?v=lrv8ga02VNg) `0:44:27`
+	- [ ] [Love, art and stories: decoded | The Age of A.I.](https://www.youtube.com/watch?v=Kr1fmKVY3cA) `0:38:57`
+	- [ ] [The 'Space Architects' of Mars | The Age of A.I.](https://www.youtube.com/watch?v=lIvrIKaNCRE) `0:30:10`
+	- [ ] [Will a robot take my job? | The Age of A.I.](https://www.youtube.com/watch?v=f2aocKWrPG8) `0:36:14`
+	- [ ] [Saving the world one algorithm at a time | The Age of A.I.](https://www.youtube.com/watch?v=0wy4u34fii4) `0:46:37`
+	- [ ] [How A.I. is searching for Aliens | The Age of A.I.](https://www.youtube.com/watch?v=VwtC_4t2g5M) `0:36:12`
 - [ ] [Youtube: Gradient Dissent Podcast](https://www.youtube.com/playlist?list=PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_)
 	- [ ] [DeepChem creator Bharath Ramsundar on using deep learning for molecules and medicine discovery](https://www.youtube.com/watch?v=GnkpVjp117k) `0:55:11`
-	- [X] [ML Research and Production Pipelines with Chip Huyen](https://www.youtube.com/watch?v=6adNHwE5PHY) `0:43:07`
+	- [ ] [ML Research and Production Pipelines with Chip Huyen](https://www.youtube.com/watch?v=6adNHwE5PHY) `0:43:07`
 	- [ ] [Product Management for AI with Peter Skomoroch](https://www.youtube.com/watch?v=hSyb3xEvCrI) `1:28:14`
-	- [X] [Slow down and change one thing at a time - Advancing AI research with Josh Tobin](https://www.youtube.com/watch?v=G6AgmZ6_R3U) `0:48:19`
+	- [ ] [Slow down and change one thing at a time - Advancing AI research with Josh Tobin](https://www.youtube.com/watch?v=G6AgmZ6_R3U) `0:48:19`
 	- [ ] [Societal Impacts of Artificial Intelligence with Miles Brundage](https://www.youtube.com/watch?v=O2ya8M72y0U) `1:02:25`
 	- [ ] [Deep Reinforcement Learning and Robotics with Peter Welinder](https://www.youtube.com/watch?v=1VI3xTh-TMA) `0:54:22`
-	- [X] [Machine learning across industries with Vicki Boykis](https://www.youtube.com/watch?v=pOnRSYSNuXI) `0:34:02`
+	- [ ] [Machine learning across industries with Vicki Boykis](https://www.youtube.com/watch?v=pOnRSYSNuXI) `0:34:02`
 	- [ ] [Designing ML models for millions of consumer robots - Angela Bassa and Danielle Dean](https://www.youtube.com/watch?v=W55uO4gIlQ4) `0:52:38`
 	- [ ] [Building trustworthy AI systems and combating potential malicious use – A conversation w/ Jack Clark](https://www.youtube.com/watch?v=nv_f1Gk8Ybk) `0:55:56`
-	- [X] [Rachael Tatman - Conversational A.I. and Linguistics](https://www.youtube.com/watch?v=n_CTGZSq4m0) `0:36:51`
-	- [X] [Nicolas Koumchatzky - Machine Learning in Production for Self Driving Cars](https://www.youtube.com/watch?v=NbiG8ZuRsqU) `0:44:56`
-	- [X] [Brandon Rohrer - Machine Learning in Production for Robots](https://www.youtube.com/watch?v=_Ot35PspXw4) `0:34:31`
-- [X] [Youtube: Accuracy as a Failure](https://youtu.be/YGuVuZpTop0)
-- [X] [Youtube: Using Intent Data to Optimize the Self-Solve Experience](https://lucidworks.com/post/using-intent-data-to-optimize-the-self-solve-experience/)
-- [X] [Youtube: Trillions of Questions, No Easy Answers: A (home) movie about how Google Search works](https://www.youtube.com/watch?v=tFq6Q_muwG0)
-- [X] [Youtube: Hugging Face, Transformers | NLP Research and Open Source | Interview with Julien Chaumond](https://www.youtube.com/watch?v=ejWkDviM5QM)
-- [X] [Youtube: Vincent Warmerdam - Playing by the Rules-Based-Systems | PyData Eindhoven 2020](https://www.youtube.com/watch?v=nJAmN6gWdK8&ab_channel=PyData)
-- [X] [Youtube: Google Machine Learning System Design Mock Interview](https://www.youtube.com/watch?v=uF1V2MqX2U0)
-- [X] [Youtube: Netflix Machine Learning Mock Interview: Type-ahead Search](https://www.youtube.com/watch?v=12Ry6kGPQVs)
-- [X] [Youtube: Machine Learning design: Search engine for Q&A](https://www.youtube.com/watch?v=J_0ms1ayqKE)
-- [X] [Youtube: Engineering Systems for Real-Time Predictions @DoorDash](https://www.youtube.com/watch?v=sEZsIUBIhNk)
+	- [ ] [Rachael Tatman - Conversational A.I. and Linguistics](https://www.youtube.com/watch?v=n_CTGZSq4m0) `0:36:51`
+	- [ ] [Nicolas Koumchatzky - Machine Learning in Production for Self Driving Cars](https://www.youtube.com/watch?v=NbiG8ZuRsqU) `0:44:56`
+	- [ ] [Brandon Rohrer - Machine Learning in Production for Robots](https://www.youtube.com/watch?v=_Ot35PspXw4) `0:34:31`
+- [ ] [Youtube: Accuracy as a Failure](https://youtu.be/YGuVuZpTop0)
+- [ ] [Youtube: Using Intent Data to Optimize the Self-Solve Experience](https://lucidworks.com/post/using-intent-data-to-optimize-the-self-solve-experience/)
+- [ ] [Youtube: Trillions of Questions, No Easy Answers: A (home) movie about how Google Search works](https://www.youtube.com/watch?v=tFq6Q_muwG0)
+- [ ] [Youtube: Hugging Face, Transformers | NLP Research and Open Source | Interview with Julien Chaumond](https://www.youtube.com/watch?v=ejWkDviM5QM)
+- [ ] [Youtube: Vincent Warmerdam - Playing by the Rules-Based-Systems | PyData Eindhoven 2020](https://www.youtube.com/watch?v=nJAmN6gWdK8&ab_channel=PyData)
+- [ ] [Youtube: Google Machine Learning System Design Mock Interview](https://www.youtube.com/watch?v=uF1V2MqX2U0)
+- [ ] [Youtube: Netflix Machine Learning Mock Interview: Type-ahead Search](https://www.youtube.com/watch?v=12Ry6kGPQVs)
+- [ ] [Youtube: Machine Learning design: Search engine for Q&A](https://www.youtube.com/watch?v=J_0ms1ayqKE)
+- [ ] [Youtube: Engineering Systems for Real-Time Predictions @DoorDash](https://www.youtube.com/watch?v=sEZsIUBIhNk)
 
 ### Be familiar with data ethics
-- [X] [Article: How to Detect Bias in AI](https://www.maartengrootendorst.com/blog/bias/)
+- [ ] [Article: How to Detect Bias in AI](https://www.maartengrootendorst.com/blog/bias/)
 - [ ] [Practical Data Ethics](http://ethics.fast.ai/)
-    - [X] [Lesson 1: Disinformation](http://ethics.fast.ai/videos/?lesson=1)
+    - [ ] [Lesson 1: Disinformation](http://ethics.fast.ai/videos/?lesson=1)
     - [ ] [Lesson 2: Bias & Fairness](http://ethics.fast.ai/videos/?lesson=2)
     - [ ] [Lesson 3: Ethical Foundations & Practical Tools](http://ethics.fast.ai/videos/?lesson=3)
     - [ ] [Lesson 4: Privacy and surveillance](http://ethics.fast.ai/videos/?lesson=4)
@@ -201,40 +201,40 @@
     - [ ] [Lesson 6: Algorithmic Colonialism, and Next Steps](http://ethics.fast.ai/videos/?lesson=9)
 
 ### Be able to import data from multiple sources
-- [X] [Docs: Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-- [X] [Datacamp: Importing Data in Python (Part 2)](https://www.datacamp.com/courses/importing-data-in-python-part-2)
+- [ ] [Docs: Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- [ ] [Datacamp: Importing Data in Python (Part 2)](https://www.datacamp.com/courses/importing-data-in-python-part-2)
 - [ ] [Datacamp: Web Scraping in Python](https://www.datacamp.com/courses/web-scraping-with-python)
 
 ### Be able to setup data annotation efficiently
-- [X] [Article: Create A Synthetic Image Dataset — The “What”, The “Why” and The “How”](https://towardsdatascience.com/create-a-synthetic-image-dataset-the-what-the-why-and-the-how-f820e6b6f718)
-- [X] [Article: We need Synthetic Data](https://towardsdatascience.com/we-need-synthetic-data-e6f90a8532a4)
+- [ ] [Article: Create A Synthetic Image Dataset — The “What”, The “Why” and The “How”](https://towardsdatascience.com/create-a-synthetic-image-dataset-the-what-the-why-and-the-how-f820e6b6f718)
+- [ ] [Article: We need Synthetic Data](https://towardsdatascience.com/we-need-synthetic-data-e6f90a8532a4)
 - [ ] [Article: Weak Supervision for Online Discussions](https://trishalaneeraj.github.io/2020-07-05/weak-supervision)
-- [X] [Youtube: Snorkel: Dark Data and Machine Learning - Christopher Ré](https://www.youtube.com/watch?v=yu15Nf5eJEE)
-- [X] [Youtube: Training a NER Model with Prodigy and Transfer Learning](https://youtu.be/59BKHO_xBPA)
-- [X] [Youtube: Training a New Entity Type with Prodigy – annotation powered by active learning](https://youtu.be/l4scwf8KeIA)
-- [X] [Youtube: ECCV 2020 WSL tutorial: 4. Human-in-the-loop annotations](https://youtu.be/PCwpO3mLhZk?list=PLcD_yLvcdUll95mAnBDV0rZKhfClJMZMr)
+- [ ] [Youtube: Snorkel: Dark Data and Machine Learning - Christopher Ré](https://www.youtube.com/watch?v=yu15Nf5eJEE)
+- [ ] [Youtube: Training a NER Model with Prodigy and Transfer Learning](https://youtu.be/59BKHO_xBPA)
+- [ ] [Youtube: Training a New Entity Type with Prodigy – annotation powered by active learning](https://youtu.be/l4scwf8KeIA)
+- [ ] [Youtube: ECCV 2020 WSL tutorial: 4. Human-in-the-loop annotations](https://youtu.be/PCwpO3mLhZk?list=PLcD_yLvcdUll95mAnBDV0rZKhfClJMZMr)
 
 ### Be able to manipulate data with Numpy
-- [X] [Article: A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
+- [ ] [Article: A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
 - [ ] [Article: NumPy Illustrated: The Visual Guide to NumPy](https://medium.com/better-programming/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
 - [ ] [Article: NumPy Fundamentals for Data Science and Machine Learning](https://pabloinsente.github.io/intro-numpy-fundamentals)
-- [X] [Datacamp: Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
-- [X] [Pluralsight: Working with Multidimensional Data Using NumPy](https://www.pluralsight.com/courses/numpy-working-with-multidimensional-data)
+- [ ] [Datacamp: Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+- [ ] [Pluralsight: Working with Multidimensional Data Using NumPy](https://www.pluralsight.com/courses/numpy-working-with-multidimensional-data)
 
 ### Be able to manipulate data with Pandas
-- [X] [Article: Visualizing Pandas' Pivoting and Reshaping Functions](https://jalammar.github.io/visualizing-pandas-pivoting-and-reshaping/)
-- [X] [Article: A Gentle Visual Intro to Data Analysis in Python Using Pandas](https://jalammar.github.io/gentle-visual-intro-to-data-analysis-python-pandas/)
+- [ ] [Article: Visualizing Pandas' Pivoting and Reshaping Functions](https://jalammar.github.io/visualizing-pandas-pivoting-and-reshaping/)
+- [ ] [Article: A Gentle Visual Intro to Data Analysis in Python Using Pandas](https://jalammar.github.io/gentle-visual-intro-to-data-analysis-python-pandas/)
 - [ ] [Article: Comprehensive Guide to Grouping and Aggregating with Pandas](https://pbpython.com/groupby-agg.html)
-- [X] [Article: 8 Python Pandas Value_counts() tricks that make your work more efficient](https://re-thought.com/pandas-value_counts/)
-- [X] [Datacamp: pandas Foundations](https://www.datacamp.com/courses/pandas-foundations)
-- [X] [Datacamp: Pandas Joins for Spreadsheet Users](https://www.datacamp.com/courses/pandas-joins-for-spreadsheet-users)
-- [X] [Datacamp: Manipulating DataFrames with pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)
-- [X] [Datacamp: Merging DataFrames with pandas](https://www.datacamp.com/courses/merging-dataframes-with-pandas)
-- [X] [Datacamp: Data Manipulation with pandas](https://www.datacamp.com/courses/data-manipulation-with-pandas)
-- [X] [Datacamp: Optimizing Python Code with pandas](https://www.datacamp.com/courses/optimizing-python-code-with-pandas)
-- [X] [Datacamp: Streamlined Data Ingestion with pandas](https://www.datacamp.com/courses/streamlined-data-ingestion-with-pandas)
-- [X] [Datacamp: Analyzing Marketing Campaigns with pandas](https://www.datacamp.com/courses/analyzing-marketing-campaigns-with-pandas)
-- [X] [edX: Implementing Predictive Analytics with Spark in Azure HDInsight](https://www.edx.org/course/implementing-predictive-analytics-spark-microsoft-dat202-3x-2)
+- [ ] [Article: 8 Python Pandas Value_counts() tricks that make your work more efficient](https://re-thought.com/pandas-value_counts/)
+- [ ] [Datacamp: pandas Foundations](https://www.datacamp.com/courses/pandas-foundations)
+- [ ] [Datacamp: Pandas Joins for Spreadsheet Users](https://www.datacamp.com/courses/pandas-joins-for-spreadsheet-users)
+- [ ] [Datacamp: Manipulating DataFrames with pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)
+- [ ] [Datacamp: Merging DataFrames with pandas](https://www.datacamp.com/courses/merging-dataframes-with-pandas)
+- [ ] [Datacamp: Data Manipulation with pandas](https://www.datacamp.com/courses/data-manipulation-with-pandas)
+- [ ] [Datacamp: Optimizing Python Code with pandas](https://www.datacamp.com/courses/optimizing-python-code-with-pandas)
+- [ ] [Datacamp: Streamlined Data Ingestion with pandas](https://www.datacamp.com/courses/streamlined-data-ingestion-with-pandas)
+- [ ] [Datacamp: Analyzing Marketing Campaigns with pandas](https://www.datacamp.com/courses/analyzing-marketing-campaigns-with-pandas)
+- [ ] [edX: Implementing Predictive Analytics with Spark in Azure HDInsight](https://www.edx.org/course/implementing-predictive-analytics-spark-microsoft-dat202-3x-2)
 - [ ] [Article: Modern Pandas](https://tomaugspurger.github.io)
     - [ ] [Modern Pandas (Part 1)](https://tomaugspurger.github.io/modern-1-intro.html)
     - [ ] [Modern Pandas (Part 2)](https://tomaugspurger.github.io/method-chaining.html)
@@ -246,7 +246,7 @@
     - [ ] [Modern Pandas (Part 8)](https://tomaugspurger.github.io/modern-8-scaling.html)
 
 ### Be able to manipulate data in spreadsheets
-- [X] [Datacamp: Spreadsheet basics](https://www.datacamp.com/courses/spreadsheet-basics)
+- [ ] [Datacamp: Spreadsheet basics](https://www.datacamp.com/courses/spreadsheet-basics)
 - [ ] [Datacamp: Data Analysis with Spreadsheets](https://www.datacamp.com/courses/data-analysis-with-spreadsheets)
 - [ ] [Datacamp: Intermediate Spreadsheets for Data Science](https://www.datacamp.com/courses/intermediate-spreadsheets-for-data-science)
 - [ ] [Datacamp: Pivot Tables with Spreadsheets](https://www.datacamp.com/courses/pivot-tables-with-spreadsheets)
@@ -255,16 +255,16 @@
 - [ ] [Datacamp: Conditional Formatting in Spreadsheets](https://www.datacamp.com/courses/conditional-formatting-in-spreadsheets)
 - [ ] [Datacamp: Marketing Analytics in Spreadsheets](https://www.datacamp.com/courses/marketing-analytics-in-spreadsheets)
 - [ ] [Datacamp: Error and Uncertainty in Spreadsheets](https://www.datacamp.com/courses/error-and-uncertainty-in-spreadsheets)
-- [X] [edX: Analyzing and Visualizing Data with Excel](https://www.edx.org/course/analyzing-visualizing-data-excel-microsoft-dat206x-7)
+- [ ] [edX: Analyzing and Visualizing Data with Excel](https://www.edx.org/course/analyzing-visualizing-data-excel-microsoft-dat206x-7)
 
 ### Be able to manipulate data in databases
-- [X] [Codecademy: SQL Track](https://www.codecademy.com/courses/learn-sql)
-- [X] [Datacamp: Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
+- [ ] [Codecademy: SQL Track](https://www.codecademy.com/courses/learn-sql)
+- [ ] [Datacamp: Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
 - [ ] [Datacamp: Introduction to MongoDB in Python](https://www.datacamp.com/courses/introduction-to-using-mongodb-for-data-science-with-python)
 - [ ] [Datacamp: Intermediate SQL](https://www.datacamp.com/courses/intermediate-sql)
 - [ ] [Datacamp: Exploratory Data Analysis in SQL](https://www.datacamp.com/courses/sql-for-exploratory-data-analysis)
 - [ ] [Datacamp: Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql)
-- [X] [Datacamp: Querying with TransactSQL](https://www.datacamp.com/courses/querying-with-transact-sql)
+- [ ] [Datacamp: Querying with TransactSQL](https://www.datacamp.com/courses/querying-with-transact-sql)
 - [ ] [Datacamp: Introduction to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)
 - [ ] [Datacamp: Reporting in SQL](https://www.datacamp.com/courses/reporting-in-sql)
 - [ ] [Datacamp: Applying SQL to Real-World Problems](https://www.datacamp.com/courses/applying-sql-to-real-world-problems)
@@ -277,63 +277,63 @@
 
 ### Be able to use Linux tools
 - [ ] [Article: Streamline your projects using Makefile](https://dev.to/yankee/streamline-projects-using-makefile-28fe)
-- [X] [Calmcode: makefiles](https://calmcode.io/makefiles/the-problem.html)
-- [X] [Calmcode: entr](https://calmcode.io/entr/introduction.html)
-- [X] [Codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
-- [X] [Datacamp: Introduction to Shell for Data Science](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)
-- [X] [Datacamp: Introduction to Bash Scripting](https://www.datacamp.com/courses/introduction-to-bash-scripting)
+- [ ] [Calmcode: makefiles](https://calmcode.io/makefiles/the-problem.html)
+- [ ] [Calmcode: entr](https://calmcode.io/entr/introduction.html)
+- [ ] [Codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
+- [ ] [Datacamp: Introduction to Shell for Data Science](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)
+- [ ] [Datacamp: Introduction to Bash Scripting](https://www.datacamp.com/courses/introduction-to-bash-scripting)
 - [ ] [Datacamp: Data Processing in Shell](https://www.datacamp.com/courses/data-processing-in-shell)
 - [ ] [LaunchSchool: Introduction to Commandline](https://launchschool.com/books/command_line)
 - [ ] [Learn Enough Command Line to be dangerous](http://www.learnenough.com/command-line-tutorial)
 - [ ] [Thoughtbot: Mastering the Shell](https://thoughtbot.com/upcase/mastering-the-shell)
 - [ ] [Thoughtbot: tmux](https://thoughtbot.com/upcase/tmux)
-- [X] [Udacity: Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
-- [X] [Udacity: Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)
+- [ ] [Udacity: Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
+- [ ] [Udacity: Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)
 - [ ] [Web Bos:  Command Line Power User](https://www.youtube.com/watch?v=DP218aBHm1Q&list=PLu8EoSxDXHP7tXPJp5ZmUpuT7sFvrswzf&index=2)
 - [ ] [Youtube: GNU Parallel](https://www.youtube.com/playlist?list=PL284C9FF2488BC6D1)
 
 ### Be able to perform feature engineering
-- [X] [Article: Tips for Advanced Feature Engineering](https://www.maartengrootendorst.com/blog/feature-engineering/)
+- [ ] [Article: Tips for Advanced Feature Engineering](https://www.maartengrootendorst.com/blog/feature-engineering/)
 - [ ] [Article: Preparing data for a machine learning model](https://www.jeremyjordan.me/preparing-data-for-a-machine-learning-model/)
 - [ ] [Article: Feature selection for a machine learning model](https://www.jeremyjordan.me/feature-selection/)
 - [ ] [Article: Learning from imbalanced data](https://www.jeremyjordan.me/imbalanced-data/)
 - [ ] [Article: Hacker's Guide to Data Preparation for Machine Learning](https://www.curiousily.com/posts/hackers-guide-to-data-preparation-for-machine-learning/)
 - [ ] [Article: Practical Guide to Handling Imbalanced Datasets](https://www.curiousily.com/posts/practical-guide-to-handling-imbalanced-datasets/)
 - [ ] [Datacamp: Analyzing Social Media Data in Python](https://www.datacamp.com/courses/analyzing-social-media-data-in-python)
-- [X] [Datacamp: Dimensionality Reduction in Python](https://www.datacamp.com/courses/dimensionality-reduction-in-python)
-- [X] [Datacamp: Preprocessing for Machine Learning in Python](https://www.datacamp.com/courses/preprocessing-for-machine-learning-in-python)
-- [X] [Datacamp: Data Types for Data Science](https://www.datacamp.com/courses/data-types-for-data-science)
-- [X] [Datacamp: Cleaning Data in Python](https://www.datacamp.com/courses/cleaning-data-in-python)
-- [X] [Datacamp: Feature Engineering for Machine Learning in Python](https://www.datacamp.com/courses/feature-engineering-for-machine-learning-in-python)
+- [ ] [Datacamp: Dimensionality Reduction in Python](https://www.datacamp.com/courses/dimensionality-reduction-in-python)
+- [ ] [Datacamp: Preprocessing for Machine Learning in Python](https://www.datacamp.com/courses/preprocessing-for-machine-learning-in-python)
+- [ ] [Datacamp: Data Types for Data Science](https://www.datacamp.com/courses/data-types-for-data-science)
+- [ ] [Datacamp: Cleaning Data in Python](https://www.datacamp.com/courses/cleaning-data-in-python)
+- [ ] [Datacamp: Feature Engineering for Machine Learning in Python](https://www.datacamp.com/courses/feature-engineering-for-machine-learning-in-python)
 - [ ] [Datacamp: Importing & Managing Financial Data in Python](https://www.datacamp.com/courses/importing-managing-financial-data-in-python)
 - [ ] [Datacamp: Manipulating Time Series Data in Python](https://www.datacamp.com/courses/manipulating-time-series-data-in-python)
 - [ ] [Datacamp: Working with Geospatial Data in Python](https://www.datacamp.com/courses/working-with-geospatial-data-in-python)
 - [ ] [Datacamp: Analyzing IoT Data in Python](https://www.datacamp.com/courses/analyzing-iot-data-in-python)
 - [ ] [Datacamp: Dealing with Missing Data in Python](https://www.datacamp.com/courses/dealing-with-missing-data-in-python)
 - [ ] [Datacamp: Exploratory Data Analysis in Python](https://www.datacamp.com/courses/exploratory-data-analysis-in-python)
-- [X] [edX: Data Science Essentials](https://www.edx.org/course/data-science-essentials-microsoft-dat203-1x-5)
+- [ ] [edX: Data Science Essentials](https://www.edx.org/course/data-science-essentials-microsoft-dat203-1x-5)
 - [ ] [Google: Feature Engineering](https://www.coursera.org/learn/feature-engineering)
 - [ ] [Udacity: Creating an Analytical Dataset](https://www.udacity.com/course/creating-an-analytical-dataset--ud977)
 
 ### Be able to experiment in a notebook
-- [X] [Article: Securely storing configuration credentials in a Jupyter Notebook](http://veekaybee.github.io/2020/02/25/secrets/)
-- [X] [Article: Automatically Reload Modules with %autoreload](https://switowski.com/blog/ipython-autoreload)
+- [ ] [Article: Securely storing configuration credentials in a Jupyter Notebook](http://veekaybee.github.io/2020/02/25/secrets/)
+- [ ] [Article: Automatically Reload Modules with %autoreload](https://switowski.com/blog/ipython-autoreload)
 - [ ] [Calmcode: ipywidgets](https://calmcode.io/ipywidgets/introduction.html)
-- [X] [Documentation: Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html)
-- [X] [Pluralsight: Getting Started with Jupyter Notebook and Python](https://www.pluralsight.com/courses/jupyter-notebook-python)
-- [X] [Youtube: William Horton - A Brief History of Jupyter Notebooks](https://www.youtube.com/watch?v=kFhhCOeYcGw)
-- [X] [Youtube: I Like Notebooks](https://www.youtube.com/watch?v=9Q6sLbz37gk)
-- [X] [Youtube: I don't like notebooks.- Joel Grus (Allen Institute for Artificial Intelligence)](https://www.youtube.com/watch?v=7jiPeIFXb6U)
-- [X] [Youtube: Ryan Herr - After model.fit, before you deploy| JupyterCon 2020](https://www.youtube.com/watch?v=hGHwu1h3l6g)
-- [X] [Youtube: nbdev live coding with Hamel Husain](https://www.youtube.com/watch?v=ZJTop5uqC2U&feature=youtu.be)
-- [X] [Youtube: How to Use JupyterLab](https://www.youtube.com/watch?v=A5YyoCKxEOU&feature=emb_logo)
+- [ ] [Documentation: Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html)
+- [ ] [Pluralsight: Getting Started with Jupyter Notebook and Python](https://www.pluralsight.com/courses/jupyter-notebook-python)
+- [ ] [Youtube: William Horton - A Brief History of Jupyter Notebooks](https://www.youtube.com/watch?v=kFhhCOeYcGw)
+- [ ] [Youtube: I Like Notebooks](https://www.youtube.com/watch?v=9Q6sLbz37gk)
+- [ ] [Youtube: I don't like notebooks.- Joel Grus (Allen Institute for Artificial Intelligence)](https://www.youtube.com/watch?v=7jiPeIFXb6U)
+- [ ] [Youtube: Ryan Herr - After model.fit, before you deploy| JupyterCon 2020](https://www.youtube.com/watch?v=hGHwu1h3l6g)
+- [ ] [Youtube: nbdev live coding with Hamel Husain](https://www.youtube.com/watch?v=ZJTop5uqC2U&feature=youtu.be)
+- [ ] [Youtube: How to Use JupyterLab](https://www.youtube.com/watch?v=A5YyoCKxEOU&feature=emb_logo)
 
 ### Be able to visualize data
-- [X] [Article: Creating a Catchier Word Cloud Presentation](https://towardsdatascience.com/creating-a-catchier-word-cloud-presentation-e17fa2c1ef46)
-- [X] [Article: Effectively Using Matplotlib](https://pbpython.com/effective-matplotlib.html)
+- [ ] [Article: Creating a Catchier Word Cloud Presentation](https://towardsdatascience.com/creating-a-catchier-word-cloud-presentation-e17fa2c1ef46)
+- [ ] [Article: Effectively Using Matplotlib](https://pbpython.com/effective-matplotlib.html)
 - [ ] [Datacamp: Introduction to Data Visualization with Python](https://www.datacamp.com/courses/introduction-to-data-visualization-with-python)
-- [X] [Datacamp: Introduction to Seaborn](https://www.datacamp.com/courses/introduction-to-seaborn)
-- [X] [Datacamp: Introduction to Matplotlib](https://www.datacamp.com/courses/introduction-to-matplotlib)
+- [ ] [Datacamp: Introduction to Seaborn](https://www.datacamp.com/courses/introduction-to-seaborn)
+- [ ] [Datacamp: Introduction to Matplotlib](https://www.datacamp.com/courses/introduction-to-matplotlib)
 - [ ] [Datacamp: Intermediate Data Visualization with Seaborn](https://www.datacamp.com/courses/data-visualization-with-seaborn)
 - [ ] [Datacamp: Visualizing Time Series Data in Python](https://www.datacamp.com/courses/visualizing-time-series-data-in-python)
 - [ ] [Datacamp: Improving Your Data Visualizations in Python](https://www.datacamp.com/courses/improving-your-data-visualizations-in-python)
@@ -345,58 +345,58 @@
 - [ ] [UWData: Data Visualization Curriculum](https://github.com/uwdata/visualization-curriculum)
 
 ### Be able to do literature review using research papers
-- [X] [Paper: A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
+- [ ] [Paper: A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
 - [ ] [Paper: Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
-- [X] [Paper: Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
-- [X] [Paper: Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
-- [X] [Paper: Attention Is All You Need](https://arxiv.org/abs/1706.03762)
-- [X] [Paper: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
-- [X] [Paper: XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237)
-- [X] [Paper: Synonyms Based Term Weighting Scheme: An Extension to TF.IDF](https://www.researchgate.net/publication/306362767_Synonyms_Based_Term_Weighting_Scheme_An_Extension_to_TFIDF)
+- [ ] [Paper: Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
+- [ ] [Paper: Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
+- [ ] [Paper: Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- [ ] [Paper: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
+- [ ] [Paper: XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237)
+- [ ] [Paper: Synonyms Based Term Weighting Scheme: An Extension to TF.IDF](https://www.researchgate.net/publication/306362767_Synonyms_Based_Term_Weighting_Scheme_An_Extension_to_TFIDF)
 - [ ] [Paper: RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692)
 - [ ] [Paper: GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding](https://www.nyu.edu/projects/bowman/glue.pdf)
-- [X] [Paper: Amazon.com Recommendations Item-to-Item Collaborative Filtering](https://www.cs.umd.edu/~samir/498/Amazon-Recommendations.pdf)
-- [X] [Paper: Collaborative Filtering for Implicit Feedback Datasets](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=34AEEE06F0C2428083376C26C71D7CFF?doi=10.1.1.167.5120&rep=rep1&type=pdf)
+- [ ] [Paper: Amazon.com Recommendations Item-to-Item Collaborative Filtering](https://www.cs.umd.edu/~samir/498/Amazon-Recommendations.pdf)
+- [ ] [Paper: Collaborative Filtering for Implicit Feedback Datasets](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=34AEEE06F0C2428083376C26C71D7CFF?doi=10.1.1.167.5120&rep=rep1&type=pdf)
 - [ ] [Paper: BPR: Bayesian Personalized Ranking from Implicit Feedback](https://arxiv.org/pdf/1205.2618.pdf)
-- [X] [Paper: Factorization Machines](https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/Rendle2010FM.pdf)
-- [X] [Paper: Wide & Deep Learning for Recommender Systems](https://arxiv.org/pdf/1606.07792.pdf)
-- [X] [Paper: Neural Factorization Machines for Sparse Predictive Analytics](https://l.facebook.com/l.php?u=https%3A%2F%2Farxiv.org%2Fpdf%2F1708.05027.pdf&h=AT3VuDk1rSqAkgo1x79wl9FXtb7SFMT01B1MXLMvp0O8syX2BuHYB70EJkMwVngQtShj0yTTn6laoRQ3I7StkJQJ9j1b8DiHM7gXNv7dWvL9S_khSF4wWZA9No70BhewiggJ8a8Pa0jTnq4_ppOIsk-qDYVkyJM5QuoSSg)
-- [X] [Paper: Multiword Expressions: A Pain in the Neck for NLP](http://lingo.stanford.edu/pubs/WP-2001-03.pdf)
-- [X] [Paper: PyTorch: An Imperative Style, High-Performance Deep Learning Library](https://arxiv.org/pdf/1912.01703.pdf)
-- [X] [Paper: ALBERT: A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS](https://arxiv.org/pdf/1909.11942.pdf)
-- [X] [Paper: Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey](https://arxiv.org/abs/1902.06162)
-- [X] [Paper: A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/pdf/2002.05709.pdf)
-- [X] [Paper: Self-Supervised Learning of Pretext-Invariant Representations](https://arxiv.org/abs/1912.01991)
-- [X] [Paper: FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence](https://arxiv.org/abs/2001.07685)
-- [X] [Paper: Self-Labelling via Simultalaneous Clustering and Representation Learning](https://www.robots.ox.ac.uk/~vgg/research/self-label/)
+- [ ] [Paper: Factorization Machines](https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/Rendle2010FM.pdf)
+- [ ] [Paper: Wide & Deep Learning for Recommender Systems](https://arxiv.org/pdf/1606.07792.pdf)
+- [ ] [Paper: Neural Factorization Machines for Sparse Predictive Analytics](https://l.facebook.com/l.php?u=https%3A%2F%2Farxiv.org%2Fpdf%2F1708.05027.pdf&h=AT3VuDk1rSqAkgo1x79wl9FXtb7SFMT01B1MXLMvp0O8syX2BuHYB70EJkMwVngQtShj0yTTn6laoRQ3I7StkJQJ9j1b8DiHM7gXNv7dWvL9S_khSF4wWZA9No70BhewiggJ8a8Pa0jTnq4_ppOIsk-qDYVkyJM5QuoSSg)
+- [ ] [Paper: Multiword Expressions: A Pain in the Neck for NLP](http://lingo.stanford.edu/pubs/WP-2001-03.pdf)
+- [ ] [Paper: PyTorch: An Imperative Style, High-Performance Deep Learning Library](https://arxiv.org/pdf/1912.01703.pdf)
+- [ ] [Paper: ALBERT: A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS](https://arxiv.org/pdf/1909.11942.pdf)
+- [ ] [Paper: Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey](https://arxiv.org/abs/1902.06162)
+- [ ] [Paper: A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/pdf/2002.05709.pdf)
+- [ ] [Paper: Self-Supervised Learning of Pretext-Invariant Representations](https://arxiv.org/abs/1912.01991)
+- [ ] [Paper: FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence](https://arxiv.org/abs/2001.07685)
+- [ ] [Paper: Self-Labelling via Simultalaneous Clustering and Representation Learning](https://www.robots.ox.ac.uk/~vgg/research/self-label/)
 - [ ] [Paper: A Survey on Contextual Embeddings](https://arxiv.org/abs/2003.07278v1)
-- [X] [Paper: A survey on Semi-, Self- and Unsupervised Techniques in Image Classification](https://arxiv.org/abs/2002.08721)
+- [ ] [Paper: A survey on Semi-, Self- and Unsupervised Techniques in Image Classification](https://arxiv.org/abs/2002.08721)
 - [ ] [Paper: Shortcut Learning in Deep Neural Networks](https://arxiv.org/abs/2004.07780)
-- [X] [Paper: Multi-document Summarization by using TextRank and Maximal Marginal Relevance for Text in Bahasa Indonesia](https://www.researchgate.net/publication/338940065_Multi-document_Summarization_by_using_TextRank_and_Maximal_Marginal_Relevance_for_Text_in_Bahasa_Indonesia)
-- [X] [Paper: Train Once, Test Anywhere: Zero-Shot Learning for Text Classification](https://arxiv.org/abs/1712.05972)
-- [X] [Paper: Zero-shot Text Classification With Generative Language Models](https://arxiv.org/abs/1912.10165)
-- [X] [Paper: How to Fine-Tune BERT for Text Classification?](https://arxiv.org/abs/1905.05583)
-- [X] [Paper: Universal Sentence Encoder](https://arxiv.org/abs/1803.11175)
-- [X] [Paper: Enriching Word Vectors with Subword Information](https://arxiv.org/abs/1607.04606)
+- [ ] [Paper: Multi-document Summarization by using TextRank and Maximal Marginal Relevance for Text in Bahasa Indonesia](https://www.researchgate.net/publication/338940065_Multi-document_Summarization_by_using_TextRank_and_Maximal_Marginal_Relevance_for_Text_in_Bahasa_Indonesia)
+- [ ] [Paper: Train Once, Test Anywhere: Zero-Shot Learning for Text Classification](https://arxiv.org/abs/1712.05972)
+- [ ] [Paper: Zero-shot Text Classification With Generative Language Models](https://arxiv.org/abs/1912.10165)
+- [ ] [Paper: How to Fine-Tune BERT for Text Classification?](https://arxiv.org/abs/1905.05583)
+- [ ] [Paper: Universal Sentence Encoder](https://arxiv.org/abs/1803.11175)
+- [ ] [Paper: Enriching Word Vectors with Subword Information](https://arxiv.org/abs/1607.04606)
 - [ ] [Paper: Deep Learning Based Text Classification: A Comprehensive Review](https://arxiv.org/abs/2004.03705)
-- [X] [Paper: Beyond Accuracy: Behavioral Testing of NLP models with CheckList](https://arxiv.org/abs/2005.04118)
-- [X] [Paper: Pseudo-Label : The Simple and Efficient Semi-Supervised Learning Method for Deep Neural Networks](http://deeplearning.net/wp-content/uploads/2013/03/pseudo_label_final.pdf)
-- [X] [Paper: Temporal Ensembling for Semi-Supervised Learning](https://arxiv.org/abs/1610.02242)
-- [X] [Paper: Boosting Self-Supervised Learning via Knowledge Transfer](https://arxiv.org/abs/1805.00385)
-- [X] [Paper: Follow-up Question Generation](https://essay.utwente.nl/79491/1/Mandasari_MA_EEMCS.pdf)
-- [X] [Paper: The Hardware Lottery](https://arxiv.org/abs/2009.06489)
-- [X] [Paper: Question Generation via Overgenerating Transformations and Ranking](http://www.cs.cmu.edu/~mheilman/papers/heilman-smith-qg-tech-report.pdf)
-- [X] [Paper: Good Question! Statistical Ranking for Question Generation](https://www.aclweb.org/anthology/N10-1086.pdf)
+- [ ] [Paper: Beyond Accuracy: Behavioral Testing of NLP models with CheckList](https://arxiv.org/abs/2005.04118)
+- [ ] [Paper: Pseudo-Label : The Simple and Efficient Semi-Supervised Learning Method for Deep Neural Networks](http://deeplearning.net/wp-content/uploads/2013/03/pseudo_label_final.pdf)
+- [ ] [Paper: Temporal Ensembling for Semi-Supervised Learning](https://arxiv.org/abs/1610.02242)
+- [ ] [Paper: Boosting Self-Supervised Learning via Knowledge Transfer](https://arxiv.org/abs/1805.00385)
+- [ ] [Paper: Follow-up Question Generation](https://essay.utwente.nl/79491/1/Mandasari_MA_EEMCS.pdf)
+- [ ] [Paper: The Hardware Lottery](https://arxiv.org/abs/2009.06489)
+- [ ] [Paper: Question Generation via Overgenerating Transformations and Ranking](http://www.cs.cmu.edu/~mheilman/papers/heilman-smith-qg-tech-report.pdf)
+- [ ] [Paper: Good Question! Statistical Ranking for Question Generation](https://www.aclweb.org/anthology/N10-1086.pdf)
 - [ ] [Paper: Towards ML Engineering: A Brief History Of TensorFlow Extended (TFX)](https://arxiv.org/pdf/2010.02013v2.pdf)
 - [ ] [Paper: Interpolation Consistency Training for Semi-Supervised Learning](https://arxiv.org/pdf/1903.03825.pdf)
-- [X] [Paper: Neural Text Generation: A Practical Guide](https://cs.stanford.edu/~zxie/textgen.pdf)
+- [ ] [Paper: Neural Text Generation: A Practical Guide](https://cs.stanford.edu/~zxie/textgen.pdf)
 - [ ] [Paper: Pest Management In Cotton Farms: An AI-System Case Study from the Global South](https://dl.acm.org/doi/10.1145/3394486.3403363)
 - [ ] [Paper: BERT2DNN: BERT Distillation with Massive Unlabeled Data for Online E-Commerce Search](https://arxiv.org/abs/2010.10442)
 - [ ] [Paper: On the surprising similarities between supervised and self-supervised models](https://arxiv.org/abs/2010.08377)
-- [X] [Paper: All-but-the-Top: Simple and Effective Postprocessing for Word Representations](https://arxiv.org/abs/1702.01417)
-- [X] [Paper: Simple and Effective Dimensionality Reduction for Word Embeddings](https://arxiv.org/abs/1708.03629)
-- [X] [Paper: A Survey on Visual Transformer](https://arxiv.org/abs/2012.12556v1)
-- [X] [Youtube: mixup: Beyond Empirical Risk Minimization (Paper Explained)](https://www.youtube.com/watch?v=a-VQfQqIMrE)
+- [ ] [Paper: All-but-the-Top: Simple and Effective Postprocessing for Word Representations](https://arxiv.org/abs/1702.01417)
+- [ ] [Paper: Simple and Effective Dimensionality Reduction for Word Embeddings](https://arxiv.org/abs/1708.03629)
+- [ ] [Paper: A Survey on Visual Transformer](https://arxiv.org/abs/2012.12556v1)
+- [ ] [Youtube: mixup: Beyond Empirical Risk Minimization (Paper Explained)](https://www.youtube.com/watch?v=a-VQfQqIMrE)
 
 ### Be able to model problems mathematically
 - [ ] [3Blue1Brown: Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
@@ -428,13 +428,13 @@
 	- [ ] [Change of basis | Essence of linear algebra, chapter 13](https://www.youtube.com/watch?v=P2LTAUO1TdA) `0:12:50`
 	- [ ] [Eigenvectors and eigenvalues | Essence of linear algebra, chapter 14](https://www.youtube.com/watch?v=PFDu9oVAE-g) `0:17:15`
 	- [ ] [Abstract vector spaces | Essence of linear algebra, chapter 15](https://www.youtube.com/watch?v=TgKwz5Ikpc8) `0:16:46`
-- [X] [3Blue1Brown: Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-	- [X] [But what is a Neural Network? | Deep learning, chapter 1](https://www.youtube.com/watch?v=aircAruvnKk) `0:19:13`
-	- [X] [Gradient descent, how neural networks learn | Deep learning, chapter 2](https://www.youtube.com/watch?v=IHZwWFHWa-w) `0:21:01`
-	- [X] [What is backpropagation really doing? | Deep learning, chapter 3](https://www.youtube.com/watch?v=Ilg3gGewQ5U) `0:13:54`
-	- [X] [Backpropagation calculus | Deep learning, chapter 4](https://www.youtube.com/watch?v=tIeHLnjs5U8) `0:10:17`
-- [X] [Article: A Visual Tour of Backpropagation](https://blog.jinay.dev/posts/backprop/)
-- [X] [Article: Entropy, Cross Entropy, and KL Divergence](https://towardsdatascience.com/entropy-cross-entropy-and-kl-divergence-17138ffab87b)
+- [ ] [3Blue1Brown: Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+	- [ ] [But what is a Neural Network? | Deep learning, chapter 1](https://www.youtube.com/watch?v=aircAruvnKk) `0:19:13`
+	- [ ] [Gradient descent, how neural networks learn | Deep learning, chapter 2](https://www.youtube.com/watch?v=IHZwWFHWa-w) `0:21:01`
+	- [ ] [What is backpropagation really doing? | Deep learning, chapter 3](https://www.youtube.com/watch?v=Ilg3gGewQ5U) `0:13:54`
+	- [ ] [Backpropagation calculus | Deep learning, chapter 4](https://www.youtube.com/watch?v=tIeHLnjs5U8) `0:10:17`
+- [ ] [Article: A Visual Tour of Backpropagation](https://blog.jinay.dev/posts/backprop/)
+- [ ] [Article: Entropy, Cross Entropy, and KL Divergence](https://towardsdatascience.com/entropy-cross-entropy-and-kl-divergence-17138ffab87b)
 - [ ] [Article: Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
 - [ ] [Article: Entropy of a probability distribution — in layman’s terms](https://medium.com/@ajitrajasekharan/entropy-of-a-probability-distribution-explained-in-laymans-terms-8a4139b329bc)
 - [ ] [Article: KL Divergence — in layman’s terms](https://medium.com/@ajitrajasekharan/what-is-kl-divergence-d1fb7921ee5b)
