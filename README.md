@@ -447,12 +447,12 @@
 - [ ] [Article: Why Randomness Is Information?](https://medium.com/swlh/why-randomness-is-information-f2468966b29d)
 - [ ] [Article: Basic Probability Theory](https://medium.com/swlh/probability-for-machine-learning-and-data-science-cccd4f4f1df1)
 - [ ] [Book: Basics of Linear Algebra for Machine Learning](https://machinelearningmastery.com/linear_algebra_for_machine_learning/)
-- [X] [Datacamp: Introduction to Statistics in Python](https://www.datacamp.com/courses/introduction-to-statistics-in-python)
-- [X] [Datacamp: Foundations of Probability in Python](https://www.datacamp.com/courses/foundations-of-probability-in-python)
+- [ ] [Datacamp: Introduction to Statistics in Python](https://www.datacamp.com/courses/introduction-to-statistics-in-python)
+- [ ] [Datacamp: Foundations of Probability in Python](https://www.datacamp.com/courses/foundations-of-probability-in-python)
 - [ ] [Datacamp: Statistical Thinking in Python (Part 1)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1)
 - [ ] [Datacamp: Statistical Thinking in Python (Part 2)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2)
 - [ ] [Datacamp: Statistical Simulation in Python](https://www.datacamp.com/courses/statistical-simulation-in-python)
-- [X] [edX: Essential Statistics for Data Analysis using Excel](https://www.edx.org/course/essential-statistics-data-analysis-using-microsoft-dat222x-1)
+- [ ] [edX: Essential Statistics for Data Analysis using Excel](https://www.edx.org/course/essential-statistics-data-analysis-using-microsoft-dat222x-1)
 - [ ] [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)
 - [ ] [Khan Academy: Precalculus](https://www.khanacademy.org/math/precalculus)
 - [ ] [Khan Academy: Probability](https://www.khanacademy.org/mission/probability)
@@ -460,20 +460,20 @@
 - [ ] [Khan Academy: Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
 - [ ] [Khan Academy: Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
 - [ ] [MIT: 18.06 Linear Algebra (Professor Strang)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
-	- [X] [1. The Geometry of Linear Equations](https://www.youtube.com/watch?v=J7DzL2_Na80) `0:39:49`
-	- [X] [2. Elimination with Matrices.](https://www.youtube.com/watch?v=QVKj3LADCnA) `0:47:41`
-	- [X] [3. Multiplication and Inverse Matrices](https://www.youtube.com/watch?v=FX4C-JpTFgY) `0:46:48`
-	- [X] [4. Factorization into A = LU](https://www.youtube.com/watch?v=MsIvs_6vC38) `0:48:05`
-	- [X] [5. Transposes, Permutations, Spaces R^n](https://www.youtube.com/watch?v=JibVXBElKL0) `0:47:41`
-	- [X] [6. Column Space and Nullspace](https://www.youtube.com/watch?v=8o5Cmfpeo6g) `0:46:01`
-	- [X] [9. Independence, Basis, and Dimension](https://www.youtube.com/watch?v=yjBerM5jWsc) `0:50:14`
-	- [X] [10. The Four Fundamental Subspaces](https://www.youtube.com/watch?v=nHlE7EgJFds) `0:49:20`
-	- [X] [11. Matrix Spaces; Rank 1; Small World Graphs](https://www.youtube.com/watch?v=2IdtqGM6KWU) `0:45:55`
-	- [X] [14. Orthogonal Vectors and Subspaces](https://www.youtube.com/watch?v=YzZUIYRCE38) `0:49:47`
-	- [X] [15. Projections onto Subspaces](https://www.youtube.com/watch?v=Y_Ac6KiQ1t0) `0:48:51`
-	- [X] [16. Projection Matrices and Least Squares](https://www.youtube.com/watch?v=osh80YCg_GM) `0:48:05`
-	- [X] [17. Orthogonal Matrices and Gram-Schmidt](https://www.youtube.com/watch?v=0MtwqhIwdrI) `0:49:09`
-	- [X] [21. Eigenvalues and Eigenvectors](https://www.youtube.com/watch?v=cdZnhQjJu4I) `0:51:22`
+	- [ ] [1. The Geometry of Linear Equations](https://www.youtube.com/watch?v=J7DzL2_Na80) `0:39:49`
+	- [ ] [2. Elimination with Matrices.](https://www.youtube.com/watch?v=QVKj3LADCnA) `0:47:41`
+	- [ ] [3. Multiplication and Inverse Matrices](https://www.youtube.com/watch?v=FX4C-JpTFgY) `0:46:48`
+	- [ ] [4. Factorization into A = LU](https://www.youtube.com/watch?v=MsIvs_6vC38) `0:48:05`
+	- [ ] [5. Transposes, Permutations, Spaces R^n](https://www.youtube.com/watch?v=JibVXBElKL0) `0:47:41`
+	- [ ] [6. Column Space and Nullspace](https://www.youtube.com/watch?v=8o5Cmfpeo6g) `0:46:01`
+	- [ ] [9. Independence, Basis, and Dimension](https://www.youtube.com/watch?v=yjBerM5jWsc) `0:50:14`
+	- [ ] [10. The Four Fundamental Subspaces](https://www.youtube.com/watch?v=nHlE7EgJFds) `0:49:20`
+	- [ ] [11. Matrix Spaces; Rank 1; Small World Graphs](https://www.youtube.com/watch?v=2IdtqGM6KWU) `0:45:55`
+	- [ ] [14. Orthogonal Vectors and Subspaces](https://www.youtube.com/watch?v=YzZUIYRCE38) `0:49:47`
+	- [ ] [15. Projections onto Subspaces](https://www.youtube.com/watch?v=Y_Ac6KiQ1t0) `0:48:51`
+	- [ ] [16. Projection Matrices and Least Squares](https://www.youtube.com/watch?v=osh80YCg_GM) `0:48:05`
+	- [ ] [17. Orthogonal Matrices and Gram-Schmidt](https://www.youtube.com/watch?v=0MtwqhIwdrI) `0:49:09`
+	- [ ] [21. Eigenvalues and Eigenvectors](https://www.youtube.com/watch?v=cdZnhQjJu4I) `0:51:22`
 	- [ ] [22. Diagonalization and Powers of A](https://www.youtube.com/watch?v=13r9QY6cmjc) `0:51:50`
 	- [ ] [24. Markov Matrices; Fourier Series](https://www.youtube.com/watch?v=lGGDIGizcQ0) `0:51:11`
 	- [ ] [25. Symmetric Matrices and Positive Definiteness](https://www.youtube.com/watch?v=UCc9q_cAhho) `0:43:52`
@@ -527,7 +527,7 @@
 	- [ ] [Live 2020-04-20!!! Expected Values](https://www.youtube.com/watch?v=fU2PuYKsr6M) `0:33:00`
 - [ ] [Udacity: Algebra Review](https://www.udacity.com/course/intro-algebra-review--ma004)
 - [ ] [Udacity: Differential Equations in Action](https://www.udacity.com/course/differential-equations-in-action--cs222)
-- [X] [Udacity: Eigenvectors and Eigenvalues](https://www.udacity.com/course/eigenvectors-and-eigenvalues--ud104)
+- [ ] [Udacity: Eigenvectors and Eigenvalues](https://www.udacity.com/course/eigenvectors-and-eigenvalues--ud104)
 - [ ] [Udacity: Linear Algebra Refresher](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
 - [ ] [Udacity: Statistics](https://www.udacity.com/course/statistics--st095)
 - [ ] [Udacity: Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
@@ -538,48 +538,48 @@
 - [ ] [Youtube: Logistic Regression - THE MATH YOU SHOULD KNOW!](https://www.youtube.com/watch?v=YMJtsYIp4kg) `0:09:14`
 - [ ] [Youtube: But what *is* a Neural Network? - THE MATH YOU SHOULD KNOW!](https://www.youtube.com/watch?v=oB3gmT8GAgI) `0:19:07`
 - [ ] [Youtube: Visualizing Deep Learning](https://www.youtube.com/playlist?list=PLyPKqVSnetmEOp_g_hfabuRAs9ET-shl_)
-    - [X] [The Neural Network, A Visual Introduction | Visualizing Deep Learning, Chapter 1](https://www.youtube.com/watch?v=UOvPeC8WOt8&feature=youtu.be)
+- [ ] [The Neural Network, A Visual Introduction | Visualizing Deep Learning, Chapter 1](https://www.youtube.com/watch?v=UOvPeC8WOt8&feature=youtu.be)
 
 ### Be able to structure machine learning projects
-- [X] [Article: I trained a model. What is next?](https://ternaus.blog/tutorial/2020/08/28/Trained-model-what-is-next.html)
-- [X] [Article: pydantic](https://towardsdatascience.com/pydantic-688e897cfd3a)
+- [ ] [Article: I trained a model. What is next?](https://ternaus.blog/tutorial/2020/08/28/Trained-model-what-is-next.html)
+- [ ] [Article: pydantic](https://towardsdatascience.com/pydantic-688e897cfd3a)
 - [ ] [Article: Always start with a stupid model, no exceptions.](https://mlpowered.com/posts/start-with-a-stupid-model/)
 - [ ] [Article: Organizing machine learning projects: project management guidelines](https://www.jeremyjordan.me/ml-projects-guide/)
 - [ ] [Article: Most impactful AI trends of 2018: the rise of ML Engineering](https://mlpowered.com/posts/2019-ml-trends/)
 - [ ] [Article: Building machine learning products: a problem well-defined is a problem half-solved.](https://www.jeremyjordan.me/ml-requirements/)
-- [X] [Article: Simple considerations for simple people building fancy neural networks](https://medium.com/huggingface/simple-considerations-for-simple-people-building-fancy-neural-networks-7abc3c0f0bd7)
+- [ ] [Article: Simple considerations for simple people building fancy neural networks](https://medium.com/huggingface/simple-considerations-for-simple-people-building-fancy-neural-networks-7abc3c0f0bd7)
 - [ ] [Article: Logging and Debugging in Machine Learning - How to use Python debugger and the logging module to find errors in your AI application](https://theaisummer.com/logging-debugging/)
 - [ ] [Article: How to Unit Test Deep Learning: Tests in TensorFlow, mocking and test coverage](https://theaisummer.com/unit-test-deep-learning/)
 - [ ] [Article: Best practices to write Deep Learning code: Project structure, OOP, Type checking and documentation](https://theaisummer.com/best-practices-deep-learning-code/)
 - [ ] [Article: Deep Learning in Production: Laptop set up and system design](https://theaisummer.com/deep-learning-production/)
-- [X] [Article: Configuring Google Colab Like A Pro](https://medium.com/@robertbracco1/configuring-google-colab-like-a-pro-d61c253f7573)
-- [X] [Article: Stop using print, start using loguru in Python](https://handyman.dulare.com/stop-using-print-start-using-loguru-in-python/)
+- [ ] [Article: Configuring Google Colab Like A Pro](https://medium.com/@robertbracco1/configuring-google-colab-like-a-pro-d61c253f7573)
+- [ ] [Article: Stop using print, start using loguru in Python](https://handyman.dulare.com/stop-using-print-start-using-loguru-in-python/)
 - [ ] [Coursera: Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
-- [X] [Datacamp: Conda Essentials](https://www.datacamp.com/courses/conda-essentials)
+- [ ] [Datacamp: Conda Essentials](https://www.datacamp.com/courses/conda-essentials)
 - [ ] [Datacamp: Conda for Building & Distributing Packages](https://www.datacamp.com/courses/conda-for-building-distributing-packages)
-- [X] [Datacamp: Creating Robust Python Workflows](https://www.datacamp.com/courses/creating-robust-python-workflows)
-- [X] [Datacamp: Software Engineering for Data Scientists in Python](https://www.datacamp.com/courses/software-engineering-for-data-scientists-in-python)
-- [X] [Datacamp: Designing Machine Learning Workflows in Python](https://www.datacamp.com/courses/designing-machine-learning-workflows-in-python)
-- [X] [Datacamp: Object-Oriented Programming in Python](https://www.datacamp.com/courses/object-oriented-programming-in-python)
+- [ ] [Datacamp: Creating Robust Python Workflows](https://www.datacamp.com/courses/creating-robust-python-workflows)
+- [ ] [Datacamp: Software Engineering for Data Scientists in Python](https://www.datacamp.com/courses/software-engineering-for-data-scientists-in-python)
+- [ ] [Datacamp: Designing Machine Learning Workflows in Python](https://www.datacamp.com/courses/designing-machine-learning-workflows-in-python)
+- [ ] [Datacamp: Object-Oriented Programming in Python](https://www.datacamp.com/courses/object-oriented-programming-in-python)
 - [ ] [Datacamp: Command Line Automation in Python](https://www.datacamp.com/courses/command-line-automation-in-python)
-- [X] [Datacamp: Introduction to Data Engineering](https://www.datacamp.com/courses/introduction-to-data-engineering)
+- [ ] [Datacamp: Introduction to Data Engineering](https://www.datacamp.com/courses/introduction-to-data-engineering)
 - [ ] [Datacamp: Experimental Design in Python](https://www.datacamp.com/courses/experimental-design-in-python)
-- [X] [Full Stack Deep Learning Bootcamp: March 2019](https://fullstackdeeplearning.com/march2019)
-  - [X] [Lecture 1: Introduction to Deep Learning](https://youtu.be/5AjG5OPQuBM)
-  - [X] [Lecture 2: Setting Up Machine Learning Projects](https://youtu.be/tBUK1_cHu-8)
-  - [X] [Lecture 3: Introduction to the Text Recognizer Project](https://youtu.be/mmlvGLSXKLc)
-  - [X] [Lecture 4: Infrastructure and Tooling](https://youtu.be/f6jAz1zyrDI)
-  - [X] [Lecture 5: Tracking Experiments](https://youtu.be/Eiz1zcqrqw0)
-  - [X] [Lecture 6: Data Management](https://youtu.be/T5jv8-xZhZI)
-  - [X] [Lecture 7: Machine Learning Teams](https://youtu.be/Qb3RhwNb4EM)
-  - [X] [Lecture 9: Lukas Biewald](https://youtu.be/25_kBogrzrs)
-  - [X] [Lecture 10: Troubleshooting Deep Neural Networks](https://youtu.be/GwGTwPcG0YM)
-  - [X] [Lecture 11: Labs 6-9: Detection, Data Labeling, Testing and Deployment](https://youtu.be/JTSwQu0OyGs)
-  - [X] [Lecture 12: Testing and Deployment](https://youtu.be/nu7h1zdKPd0)
-  - [X] [Lecture 13: Research Directions](https://youtu.be/vF7UgqaegVI)
-  - [X] [Lecture 14: Jeremy Howard](https://youtu.be/hZd3X_nGdew)
-  - [X] [Lecture 15: Richard Socher](https://youtu.be/yvMgcLKuvVg)
-  - [X] [Guest Lecture - Chip Huyen - Machine Learning Interviews - Full Stack Deep Learning](https://youtu.be/pli1K75PSa8)
+- [ ] [Full Stack Deep Learning Bootcamp: March 2019](https://fullstackdeeplearning.com/march2019)
+  - [ ] [Lecture 1: Introduction to Deep Learning](https://youtu.be/5AjG5OPQuBM)
+  - [ ] [Lecture 2: Setting Up Machine Learning Projects](https://youtu.be/tBUK1_cHu-8)
+  - [ ] [Lecture 3: Introduction to the Text Recognizer Project](https://youtu.be/mmlvGLSXKLc)
+  - [ ] [Lecture 4: Infrastructure and Tooling](https://youtu.be/f6jAz1zyrDI)
+  - [ ] [Lecture 5: Tracking Experiments](https://youtu.be/Eiz1zcqrqw0)
+  - [ ] [Lecture 6: Data Management](https://youtu.be/T5jv8-xZhZI)
+  - [ ] [Lecture 7: Machine Learning Teams](https://youtu.be/Qb3RhwNb4EM)
+  - [ ] [Lecture 9: Lukas Biewald](https://youtu.be/25_kBogrzrs)
+  - [ ] [Lecture 10: Troubleshooting Deep Neural Networks](https://youtu.be/GwGTwPcG0YM)
+  - [ ] [Lecture 11: Labs 6-9: Detection, Data Labeling, Testing and Deployment](https://youtu.be/JTSwQu0OyGs)
+  - [ ] [Lecture 12: Testing and Deployment](https://youtu.be/nu7h1zdKPd0)
+  - [ ] [Lecture 13: Research Directions](https://youtu.be/vF7UgqaegVI)
+  - [ ] [Lecture 14: Jeremy Howard](https://youtu.be/hZd3X_nGdew)
+  - [ ] [Lecture 15: Richard Socher](https://youtu.be/yvMgcLKuvVg)
+  - [ ] [Guest Lecture - Chip Huyen - Machine Learning Interviews - Full Stack Deep Learning](https://youtu.be/pli1K75PSa8)
 - [ ] [MIT: The Missing Semester of CS Education](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
 	- [ ] [Lecture 1: Course Overview + The Shell (2020)](https://www.youtube.com/watch?v=Z56Jmr9Z34Q) `0:48:16`
 	- [ ] [Lecture 2: Shell Tools and Scripting (2020)](https://www.youtube.com/watch?v=kgII-YWo3Zw) `0:48:55`
@@ -592,17 +592,17 @@
 	- [ ] [Lecture 9: Security and Cryptography (2020)](https://www.youtube.com/watch?v=tjwobAmnKTo) `1:00:59`
 	- [ ] [Lecture 10: Potpourri (2020)](https://www.youtube.com/watch?v=JZDt-PRq0uo) `0:57:54`
 	- [ ] [Lecture 11: Q&A (2020)](https://www.youtube.com/watch?v=Wz50FvGG6xU) `0:53:52`
-- [X] [Treehouse: Object Oriented Python](https://teamtreehouse.com/library/objectoriented-python-2)
-- [X] [Treehouse: Setup Local Python Environment](https://teamtreehouse.com/library/setting-utorialtorialp-a-local-python-environment-windows)
+- [ ] [Treehouse: Object Oriented Python](https://teamtreehouse.com/library/objectoriented-python-2)
+- [ ] [Treehouse: Setup Local Python Environment](https://teamtreehouse.com/library/setting-utorialtorialp-a-local-python-environment-windows)
 - [ ] [Udacity: Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
-- [X] [Youtube: Weights and Biases Tutorial](https://www.youtube.com/playlist?list=PLD80i8An1OEE0xs5BjKpCBdm0aaDI00U9)
-- [X] [Youtube: Integrate Weights & Biases with PyTorch](https://www.youtube.com/watch?v=G7GH0SeNBMA&list=PLD80i8An1OEGajeVo15ohAQYF1Ttle0lk&index=2)
-- [X] [Youtube: Log (Almost) Anything with Weights & Biases](https://www.youtube.com/watch?v=96MxRvx15Ts&list=PLD80i8An1OEGajeVo15ohAQYF1Ttle0lk&index=3)
+- [ ] [Youtube: Weights and Biases Tutorial](https://www.youtube.com/playlist?list=PLD80i8An1OEE0xs5BjKpCBdm0aaDI00U9)
+- [ ] [Youtube: Integrate Weights & Biases with PyTorch](https://www.youtube.com/watch?v=G7GH0SeNBMA&list=PLD80i8An1OEGajeVo15ohAQYF1Ttle0lk&index=2)
+- [ ] [Youtube: Log (Almost) Anything with Weights & Biases](https://www.youtube.com/watch?v=96MxRvx15Ts&list=PLD80i8An1OEGajeVo15ohAQYF1Ttle0lk&index=3)
 - [ ] [Youtube: MLOps Tutorials](https://www.youtube.com/playlist?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz)
     - [ ] [MLOps Tutorial #1: Intro to Continuous Integration for ML](https://youtu.be/9BgIDqAzfuA?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz) `17:44:00`
     - [ ] [MLOps Tutorial #2: When data is too big for Git](https://youtu.be/kZKAuShWF0s?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz) `10:51:00`
     - [ ] [MLOps Tutorial #3: Track ML models with Git & GitHub Actions](https://youtu.be/xPncjKH6SPk?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz) `14:12:00`
-- [X] [Youtube: Data Engineering + ML + Software Engineering // Satish Chandra Gupta // MLOps Coffee Sessions #16](https://www.youtube.com/watch?v=IUhvO8QjWd8&list=LL&index=2)
+- [ ] [Youtube: Data Engineering + ML + Software Engineering // Satish Chandra Gupta // MLOps Coffee Sessions #16](https://www.youtube.com/watch?v=IUhvO8QjWd8&list=LL&index=2)
 - [ ] [Youtube: OO Design and Testing Patterns for Machine Learning with Chris Gerpheide](https://www.youtube.com/watch?v=VuQaS0FFUFY)
 - [ ] [Youtube: MLSys Seminars Fall 2020](https://www.youtube.com/playlist?list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq)
     - [ ] [Stanford MLSys Seminar Episode 0: ML + Systems](https://www.youtube.com/watch?v=OEiNnfdxBRE) `0:11:49`
@@ -610,39 +610,39 @@
     - [ ] [Stanford MLSys Seminar Episode 2: Matei Zaharia](https://www.youtube.com/watch?v=nCQ9WqXPIS4) `0:59:44`
     - [ ] [Stanford MLSys Seminar Episode 3: Virginia Smith](https://www.youtube.com/watch?v=laCyJICLyWg) `1:00:55`
     - [ ] [Stanford MLSys Seminar Episode 4: Alex Ratner](https://www.youtube.com/watch?v=pDVV4zKNqIE) `1:13:34`
-    - [X] [Stanford MLSys Seminar Episode 5: Chip Huyen](https://www.youtube.com/watch?v=c_AUuTuPA5k) `1:06:44`
+    - [ ] [Stanford MLSys Seminar Episode 5: Chip Huyen](https://www.youtube.com/watch?v=c_AUuTuPA5k) `1:06:44`
 
 ### Be able to version control code
 - [ ] [Article: Mastering Git Stash Workflow](https://dev.to/yankee/mastering-git-stash-workflow-223)
-- [X] [Article: How to Become a Master of Git Tags](https://blog.daftcode.pl/how-to-become-a-master-of-git-tags-b70fbd9609d9)
-- [X] [Article: How to track large files in Github / Bitbucket? Git LFS to the rescue](https://pgaijin66.medium.com/how-to-track-large-files-in-github-bitbucket-git-lfs-to-the-rescue-2f298e07b3d2)
+- [ ] [Article: How to Become a Master of Git Tags](https://blog.daftcode.pl/how-to-become-a-master-of-git-tags-b70fbd9609d9)
+- [ ] [Article: How to track large files in Github / Bitbucket? Git LFS to the rescue](https://pgaijin66.medium.com/how-to-track-large-files-in-github-bitbucket-git-lfs-to-the-rescue-2f298e07b3d2)
 - [ ] [Article: Keep your git directory clean with `git clean` and `git trash`](https://coderwall.com/p/g16jpq/keep-your-git-directory-clean-with-git-clean-and-git-trash)
-- [X] [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
-- [X] [Code School: Git Real](https://www.pluralsight.com/courses/code-school-git-real)
-- [X] [Datacamp: Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
+- [ ] [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
+- [ ] [Code School: Git Real](https://www.pluralsight.com/courses/code-school-git-real)
+- [ ] [Datacamp: Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
 - [ ] [Learn enough git to be dangerous](http://learnenough.com/git-tutorial)
 - [ ] [Learn Git Branching](https://learngitbranching.js.org)
 - [ ] [Thoughtbot: Mastering Git](https://thoughtbot.com/upcase/mastering-git)
-- [X] [Udacity: GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
-- [X] [Udacity: How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
-- [X] [Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
-- [X] [Youtube: 045 Introduction to Git LFS](https://youtu.be/xPFLAAhuGy0)
-
+- [ ] [Udacity: GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
+- [ ] [Udacity: How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+- [ ] [Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+- [ ] [Youtube: 045 Introduction to Git LFS](https://youtu.be/xPFLAAhuGy0)
+ 
 ### Be able to use version control data
 - [ ] [Youtube: DVC Basics](https://www.youtube.com/playlist?list=PL7WG7YrwYcnDb0qdPl9-KEStsL-3oaEjg)
-	- [X] [Versioning Data with DVC (Hands-On Tutorial!)](https://www.youtube.com/watch?v=kLKBcPonMYw) `0:13:04`
-	- [X] [Sharing Data and Models with DVC (Hands-On Data Science Tutorial!)](https://www.youtube.com/watch?v=EE7Gk84OZY8) `0:08:53`
+	- [ ] [Versioning Data with DVC (Hands-On Tutorial!)](https://www.youtube.com/watch?v=kLKBcPonMYw) `0:13:04`
+	- [ ] [Sharing Data and Models with DVC (Hands-On Data Science Tutorial!)](https://www.youtube.com/watch?v=EE7Gk84OZY8) `0:08:53`
 	- [ ] [Machine Learning Pipelines with DVC (Hands-On Tutorial!)](https://www.youtube.com/watch?v=71IGzyH95UY) `0:10:04`
 	- [ ] [Machine Learning Experiments with DVC (Hands-On Tutorial!)](https://www.youtube.com/watch?v=iduHPtBncBk) `0:07:29`
 
 ### Be familiar with fundamental of ML and DL
-- [X] [Article: Validating your Machine Learning Model](https://www.maartengrootendorst.com/blog/validate/)
-- [X] [Article: One-vs-Rest strategy for Multi-Class Classification](https://www.geeksforgeeks.org/one-vs-rest-strategy-for-multi-class-classification/)
-- [X] [Article: Multi-class Classification — One-vs-All & One-vs-One](https://radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/multi-class-classification-one-vs-all-one-vs-one-94daed32a87b)
-- [X] [Article: One-vs-Rest and One-vs-One for Multi-Class Classification](https://machinelearningmastery.com/one-vs-rest-and-one-vs-one-for-multi-class-classification/)
+- [ ] [Article: Validating your Machine Learning Model](https://www.maartengrootendorst.com/blog/validate/)
+- [ ] [Article: One-vs-Rest strategy for Multi-Class Classification](https://www.geeksforgeeks.org/one-vs-rest-strategy-for-multi-class-classification/)
+- [ ] [Article: Multi-class Classification — One-vs-All & One-vs-One](https://radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/multi-class-classification-one-vs-all-one-vs-one-94daed32a87b)
+- [ ] [Article: One-vs-Rest and One-vs-One for Multi-Class Classification](https://machinelearningmastery.com/one-vs-rest-and-one-vs-one-for-multi-class-classification/)
 - [ ] [Article: The Complete Guide to AUC and Average Precision: Simulations and Visualizations](https://glassboxmedicine.com/2020/07/14/the-complete-guide-to-auc-and-average-precision-simulations-and-visualizations/)
 - [ ] [Article: Connections: Log Likelihood, Cross Entropy, KL Divergence, Logistic Regression, and Neural Networks](https://glassboxmedicine.com/2019/12/07/connections-log-likelihood-cross-entropy-kl-divergence-logistic-regression-and-neural-networks/)
-- [X] [Article: Best Use of Train/Val/Test Splits, with Tips for Medical Data](https://glassboxmedicine.com/2019/09/15/best-use-of-train-val-test-splits-with-tips-for-medical-data/)
+- [ ] [Article: Best Use of Train/Val/Test Splits, with Tips for Medical Data](https://glassboxmedicine.com/2019/09/15/best-use-of-train-val-test-splits-with-tips-for-medical-data/)
 - [ ] [Article: Measuring Performance: AUPRC and Average Precision](https://glassboxmedicine.com/2019/03/02/measuring-performance-auprc/)
 - [ ] [Article: Measuring Performance: AUC (AUROC)](https://glassboxmedicine.com/2019/02/23/measuring-performance-auc-auroc/)
 - [ ] [Article: Measuring Performance: The Confusion Matrix](https://glassboxmedicine.com/2019/02/17/measuring-performance-the-confusion-matrix/)
@@ -658,9 +658,9 @@
 - [ ] [Article: Boosted trees](https://www.jeremyjordan.me/boosted-trees/)
 - [ ] [Article: ROC Curves: Intuition Through Visualization](https://www.pragmatic.ml/intuition-through-visualization-roc-auc/)
 - [ ] [Article: Hacker's Guide to Fundamental Machine Learning Algorithms with Python](https://www.curiousily.com/posts/hackers-guide-to-fundamental-machine-learning-algorithms/)
-- [X] [Article: Simple Ways to Tackle Class Imbalance](https://wandb.ai/authors/class-imbalance/reports/Simple-Ways-to-Tackle-Class-Imbalance--VmlldzoxODA3NTk)
+- [ ] [Article: Simple Ways to Tackle Class Imbalance](https://wandb.ai/authors/class-imbalance/reports/Simple-Ways-to-Tackle-Class-Imbalance--VmlldzoxODA3NTk)
 - [ ] [Article: MLE and MAP — in layman’s terms](https://medium.com/@ajitrajasekharan/mle-and-map-in-laymans-terms-8527061b15a6)
-- [X] [Article: The Last 5 Years In Deep Learning](https://adeshpande3.github.io/adeshpande3.github.io/The-Last-5-Years-in-Deep-Learning)
+- [ ] [Article: The Last 5 Years In Deep Learning](https://adeshpande3.github.io/adeshpande3.github.io/The-Last-5-Years-in-Deep-Learning)
 - [ ] [Article: Visualizing Optimization Trajectory of Neural Nets](https://towardsdatascience.com/from-animation-to-intuition-visualizing-optimization-trajectory-in-neural-nets-726e43a08d85)
 - [ ] [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/)
 - [ ] [Article: Optimization for Deep Learning Highlights in 2017](https://ruder.io/deep-learning-optimization-2017/)
@@ -681,17 +681,17 @@
 - [ ] [Article: Cross-entropy for classification](https://towardsdatascience.com/cross-entropy-for-classification-d98e7f974451)
 - [ ] [Article: Perceptron to Deep-Neural-Network](https://tsumansapkota.github.io/algorithm/2020/06/06/Perceptron-to-DeepNeuralNets/)
 - [ ] [Article: Dismantling Neural Networks to Understand the Inner Workings with Math and Pytorch](https://towardsdatascience.com/dismantling-neural-networks-to-understand-the-inner-workings-with-math-and-pytorch-beac8760b595)
-- [X] [Article: Precision, Recall, Accuracy, and F1 Score for Multi-Label Classification](https://medium.com/synthesio-engineering/precision-accuracy-and-f1-score-for-multi-label-classification-34ac6bdfb404)
-- [X] [AWS: The Elements of Data Science](https://www.aws.training/learningobject/wbc?id=26598)
-- [X] [AWS: Understanding Neural Networks](https://www.aws.training/learningobject/video?id=27233)
+- [ ] [Article: Precision, Recall, Accuracy, and F1 Score for Multi-Label Classification](https://medium.com/synthesio-engineering/precision-accuracy-and-f1-score-for-multi-label-classification-34ac6bdfb404)
+- [ ] [AWS: The Elements of Data Science](https://www.aws.training/learningobject/wbc?id=26598)
+- [ ] [AWS: Understanding Neural Networks](https://www.aws.training/learningobject/video?id=27233)
 - [ ] [Book: Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost)
 - [ ] [Book: Pattern Recognition and Machine Learning](https://www.goodreads.com/book/show/55881.Pattern_Recognition_and_Machine_Learning)
 - [ ] [Book: Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)
 - [ ] [Book: Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G)
 - [ ] [Coursera: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
-- [X] [Datacamp: AI Fundamentals](https://www.datacamp.com/courses/fundamentals-of-ai)
+- [ ] [Datacamp: AI Fundamentals](https://www.datacamp.com/courses/fundamentals-of-ai)
 - [ ] [Datacamp: Extreme Gradient Boosting with XGBoost](https://www.datacamp.com/courses/extreme-gradient-boosting-with-xgboost)
-- [X] [Datacamp: Ensemble Methods in Python](https://www.datacamp.com/courses/ensemble-methods-in-python)
+- [ ] [Datacamp: Ensemble Methods in Python](https://www.datacamp.com/courses/ensemble-methods-in-python)
 - [ ] [Datacamp: Foundations of Predictive Analytics in Python (Part 1)](https://www.datacamp.com/courses/foundations-of-predictive-analytics-in-python-part-1)
 - [ ] [Datacamp: Foundations of Predictive Analytics in Python (Part 2)](https://www.datacamp.com/courses/foundations-of-predictive-analytics-in-python-part-2)
 - [ ] [DeepMind: DeepMind x UCL | Deep Learning Lecture Series 2020](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
@@ -701,7 +701,7 @@
 	- [ ] [DeepMind x UCL | Deep Learning Lectures | 4/12 |  Advanced Models for Computer Vision](https://www.youtube.com/watch?v=_aUq7lmMfxo) `1:33:37`
 	- [ ] [DeepMind x UCL | Deep Learning Lectures | 5/12 |  Optimization for Machine Learning](https://www.youtube.com/watch?v=kVU8zTI-Od0) `1:30:21`
 	- [ ] [DeepMind x UCL | Deep Learning Lectures | 6/12 | Sequences and Recurrent Networks](https://www.youtube.com/watch?v=87kLfzmYBy8) `1:20:27`
-	- [X] [DeepMind x UCL | Deep Learning Lectures | 7/12 |  Deep Learning for Natural Language Processing](https://www.youtube.com/watch?v=8zAP2qWAsKg) `1:32:29`
+	- [ ] [DeepMind x UCL | Deep Learning Lectures | 7/12 |  Deep Learning for Natural Language Processing](https://www.youtube.com/watch?v=8zAP2qWAsKg) `1:32:29`
 	- [ ] [DeepMind x UCL | Deep Learning Lectures | 8/12 |  Attention and Memory in Deep Learning](https://www.youtube.com/watch?v=AIiwuClvH6k) `1:36:04`
 	- [ ] [DeepMind x UCL | Deep Learning Lectures | 9/12 |  Generative Adversarial Networks](https://www.youtube.com/watch?v=wFsI2WqUfdA) `1:42:26`
 	- [ ] [DeepMind x UCL | Deep Learning Lectures | 10/12 |  Unsupervised Representation Learning](https://www.youtube.com/watch?v=f0s-uvvXvWg) `1:44:40`
@@ -803,39 +803,39 @@
 	- [ ] [Neural Networks from Scratch - P.4 Batches, Layers, and Objects](https://www.youtube.com/watch?v=TEWy9vZcxW4) `0:33:46`
 	- [ ] [Neural Networks from Scratch - P.5 Hidden Layer Activation Functions](https://www.youtube.com/watch?v=gmjzbpSVY1A) `0:40:05`
 - [ ] [Youtube: Visualizing Deep Learning](https://www.youtube.com/playlist?list=PLyPKqVSnetmEOp_g_hfabuRAs9ET-shl_)
-    - [ ] [The Neural Network, A Visual Introduction | Visualizing Deep Learning, Chapter 1](https://youtu.be/UOvPeC8WOt8?list=PLyPKqVSnetmEOp_g_hfabuRAs9ET-shl_)
-- [X] [Youtube: Deep Double Descent](https://youtu.be/R29awq6jvUw)
-- [X] [Youtube: How do we check if a neural network has learned a specific phenomenon?](https://www.youtube.com/watch?v=fL22NAtMNYo)
+- [ ] [The Neural Network, A Visual Introduction | Visualizing Deep Learning, Chapter 1](https://youtu.be/UOvPeC8WOt8?list=PLyPKqVSnetmEOp_g_hfabuRAs9ET-shl_)
+- [ ] [Youtube: Deep Double Descent](https://youtu.be/R29awq6jvUw)
+- [ ] [Youtube: How do we check if a neural network has learned a specific phenomenon?](https://www.youtube.com/watch?v=fL22NAtMNYo)
 - [ ] [Article: Label Smoothing Explained using Microsoft Excel](https://amaarora.github.io/2020/07/18/label-smoothing.html)
-- [X] [Youtube: What is Adversarial Machine Learning and what to do about it? – Adversarial example compilation](https://youtu.be/YyTyWGUUhmo)
+- [ ] [Youtube: What is Adversarial Machine Learning and what to do about it? – Adversarial example compilation](https://youtu.be/YyTyWGUUhmo)
 
 ### Be able to implement models in scikit-learn
-- [X] [Article: Stacking made easy with Sklearn](https://www.maartengrootendorst.com/blog/stacking/)
-- [X] [Calmcode: human-learn](https://calmcode.io/human-learn/introduction.html)
-- [X] [Datacamp: Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
-- [X] [Datacamp: Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
+- [ ] [Article: Stacking made easy with Sklearn](https://www.maartengrootendorst.com/blog/stacking/)
+- [ ] [Calmcode: human-learn](https://calmcode.io/human-learn/introduction.html)
+- [ ] [Datacamp: Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
+- [ ] [Datacamp: Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
 - [ ] [Datacamp: Introduction to Linear Modeling in Python](https://www.datacamp.com/courses/introduction-to-linear-modeling-in-python)
-- [X] [Datacamp: Linear Classifiers in Python](https://www.datacamp.com/courses/linear-classifiers-in-python)
+- [ ] [Datacamp: Linear Classifiers in Python](https://www.datacamp.com/courses/linear-classifiers-in-python)
 - [ ] [Datacamp: Generalized Linear Models in Python](https://www.datacamp.com/courses/generalized-linear-models-in-python)
-- [X] [Notebook: scikit-learn tips](https://github.com/justmarkham/scikit-learn-tips)
-- [X] [Pluralsight: Building Machine Learning Models in Python with scikit-learn](https://www.pluralsight.com/courses/python-scikit-learn-building-machine-learning-models)
+- [ ] [Notebook: scikit-learn tips](https://github.com/justmarkham/scikit-learn-tips)
+- [ ] [Pluralsight: Building Machine Learning Models in Python with scikit-learn](https://www.pluralsight.com/courses/python-scikit-learn-building-machine-learning-models)
 - [ ] [Video: human learn](https://calmcode.io/human-learn/introduction.html)
 - [ ] [Youtube: Applied Machine Learning 2020](https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM)
-	- [X] [Channel Intro - Applied Machine Learning](https://www.youtube.com/watch?v=d79mzijMAw0) `0:01:28`
+	- [ ] [Channel Intro - Applied Machine Learning](https://www.youtube.com/watch?v=d79mzijMAw0) `0:01:28`
 	- [ ] [Applied ML 2020 - 01 Introduction](https://www.youtube.com/watch?v=rbvpiPJuK64) `1:16:01`
-	- [X] [Applied ML 2020 - 02 Visualization and matplotlib](https://www.youtube.com/watch?v=OW3oco7nlV4) `1:07:30`
-	- [X] [Applied ML 2020 - 03 Supervised learning and model validation](https://www.youtube.com/watch?v=7_YzyMYC2zM) `1:12:00`
+	- [ ] [Applied ML 2020 - 02 Visualization and matplotlib](https://www.youtube.com/watch?v=OW3oco7nlV4) `1:07:30`
+	- [ ] [Applied ML 2020 - 03 Supervised learning and model validation](https://www.youtube.com/watch?v=7_YzyMYC2zM) `1:12:00`
 	- [ ] [Applied ML 2020 - 04 - Preprocessing](https://www.youtube.com/watch?v=XpOBSaktb6s) `1:07:40`
 	- [ ] [Applied ML 2020 - 05 - Linear Models for Regression](https://www.youtube.com/watch?v=-OOsfj5Revo) `1:06:54`
 	- [ ] [Applied ML 2020 - 06 - Linear Models for Classification](https://www.youtube.com/watch?v=_dqBhUrq09U) `1:07:50`
 	- [ ] [Applied ML 2020 - 07 - Decision Trees and Random Forests](https://www.youtube.com/watch?v=nomd5ylZ2dw) `1:07:58`
 	- [ ] [Applied ML 2020 - 08 - Gradient Boosting](https://www.youtube.com/watch?v=yrTW5YTmFjw) `1:02:12`
-	- [X] [Applied ML 2020 - 09 - Model Evaluation and Metrics](https://www.youtube.com/watch?v=trg3YkCsjqE) `1:18:23`
+	- [ ] [Applied ML 2020 - 09 - Model Evaluation and Metrics](https://www.youtube.com/watch?v=trg3YkCsjqE) `1:18:23`
 	- [ ] [Applied ML 2020 - 10 - Calibration, Imbalanced data](https://www.youtube.com/watch?v=w3OPq0V8fr8) `1:16:14`
 	- [ ] [Applied ML 2020 - 11 - Model Inspection and Feature Selection](https://www.youtube.com/watch?v=FDhyS6Xjxa8) `1:15:15`
 	- [ ] [Applied ML 2020 - 12 - AutoML (plus some feature selection)](https://www.youtube.com/watch?v=bmBezdqHTAg) `1:25:38`
 	- [ ] [Applied ML 2020 - 13 - Dimensionality reduction](https://www.youtube.com/watch?v=CrFOGyU32PM) `1:30:34`
-	- [X] [Applied ML 2020 - 14 - Clustering and Mixture Models](https://www.youtube.com/watch?v=HFioJ62H7dM) `1:26:33`
+	- [ ] [Applied ML 2020 - 14 - Clustering and Mixture Models](https://www.youtube.com/watch?v=HFioJ62H7dM) `1:26:33`
 	- [ ] [Applied ML 2020 - 15 - Working with Text Data](https://www.youtube.com/watch?v=A8yDjNsUQJA) `1:27:08`
 	- [ ] [Applied ML 2020 - 16 - Topic models for text data](https://www.youtube.com/watch?v=xdmFx4-3Ukw) `1:18:34`
 	- [ ] [Applied ML 2020 - 17 - Word vectors and document embeddings](https://www.youtube.com/watch?v=xgjnlGBpLUs) `1:03:04`
@@ -843,24 +843,24 @@
 	- [ ] [Applied ML 2020 - 19 - Keras and Convolutional neural nets](https://www.youtube.com/watch?v=PP7Hr3tGbIo) `1:16:01`
 	- [ ] [Applied ML 2020 - 20 - Advanced neural networks](https://www.youtube.com/watch?v=2FNmbX901r0) `1:36:28`
 	- [ ] [Applied ML 2020 - 21 - Time Series and Forecasting](https://www.youtube.com/watch?v=GVGEnaJsuu8) `1:12:36`
-- [X] [Youtube: dabl: Automatic Machine Learning with a Human in the Loop](https://www.youtube.com/watch?v=TQnxH90PqFc&list=PLYx7XA2nY5GejOB1lsvriFeMytD1-VS1B&index=2&t=0s) `00:25:43`
+- [ ] [Youtube: dabl: Automatic Machine Learning with a Human in the Loop](https://www.youtube.com/watch?v=TQnxH90PqFc&list=PLYx7XA2nY5GejOB1lsvriFeMytD1-VS1B&index=2&t=0s) `00:25:43`
 
 ### Be able to implement models in Tensorflow and Keras
-- [X] [Coursera: Introduction to Tensorflow](https://www.coursera.org/learn/introduction-tensorflow)
-- [X] [Coursera: Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
+- [ ] [Coursera: Introduction to Tensorflow](https://www.coursera.org/learn/introduction-tensorflow)
+- [ ] [Coursera: Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
 - [ ] [Coursera: Getting Started With Tensorflow 2](https://www.coursera.org/learn/getting-started-with-tensor-flow2)
 - [ ] [Coursera: Customising your models with TensorFlow 2](https://www.coursera.org/learn/customising-models-tensorflow2)
-- [X] [Deeplizard: Keras - Python Deep Learning Neural Network API](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)
+- [ ] [Deeplizard: Keras - Python Deep Learning Neural Network API](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)
 - [ ] [Book: Deep Learning with Python (Page: 276)](https://www.manning.com/books/deep-learning-with-python)
-- [X] [Datacamp: Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
-- [X] [Datacamp: Convolutional Neural Networks for Image Processing](https://www.datacamp.com/courses/convolutional-neural-networks-for-image-processing)
-- [X] [Datacamp: Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python)
-- [X] [Datacamp: Introduction to Deep Learning with Keras](https://www.datacamp.com/courses/deep-learning-with-keras-in-python)
-- [X] [Datacamp: Advanced Deep Learning with Keras](https://www.datacamp.com/courses/advanced-deep-learning-with-keras-in-python)
+- [ ] [Datacamp: Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
+- [ ] [Datacamp: Convolutional Neural Networks for Image Processing](https://www.datacamp.com/courses/convolutional-neural-networks-for-image-processing)
+- [ ] [Datacamp: Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python)
+- [ ] [Datacamp: Introduction to Deep Learning with Keras](https://www.datacamp.com/courses/deep-learning-with-keras-in-python)
+- [ ] [Datacamp: Advanced Deep Learning with Keras](https://www.datacamp.com/courses/advanced-deep-learning-with-keras-in-python)
 - [ ] [Google: Intro to Tensorflow](https://www.coursera.org/learn/intro-tensorflow)
 - [ ] [Google: Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
-- [X] [Pluralsight: Deep Learning with Keras](https://www.pluralsight.com/courses/keras-deep-learning)
-- [X] [Udacity: Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+- [ ] [Pluralsight: Deep Learning with Keras](https://www.pluralsight.com/courses/keras-deep-learning)
+- [ ] [Udacity: Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 
 ### Be able to implement models in PyTorch
 - [ ] [Article: Training Neural Nets on Larger Batches: Practical Tips for 1-GPU, Multi-GPU & Distributed setups](https://medium.com/huggingface/training-larger-batches-practical-tips-on-1-gpu-multi-gpu-distributed-setups-ec88c3e51255)
